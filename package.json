@@ -1,7 +1,7 @@
 {
   "name": "@baskerhq/engine-liquid",
   "description": "A Liquid engine for Pattern Lab / Node",
-  "version": "5.14.6",
+  "version": "5.14.7",
   "main": "lib/engine_liquid.js",
   "dependencies": {
     "fs-extra": "5.0.0",
